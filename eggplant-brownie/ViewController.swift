@@ -9,9 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup here after loading the view.
+    @IBAction func add() {
+        print("oi")
     }
 
 
